@@ -1,7 +1,10 @@
 # AM-CNN
 Attention Mechanism Convolutional Neural Network (AM-CNN) model
-# Dependence
-+ tensorflow
+# System requirements
++ Windows 7
++ Python 3.6+/2.7+
++ Tensorflow
++ SciPy
 + keras2
 + numpy
 # Datasets
