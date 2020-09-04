@@ -18,3 +18,4 @@ Run Python Demo.py to classify the detected images.
 + Lidong Yang
 + Liang Wu
 + Xiaoqi Lu
+# Reference
