@@ -6,6 +6,8 @@ Attention Mechanism Convolutional Neural Network (AM-CNN) model
 + numpy
 # Datasets
 MSTAR data can be downloaded from https://www.sdms.afrl.af.mil/-datasets/mstar/.
+# Target classification in Python
+Run Python Demo.py to classify the detected images. 
 # Authors
 + Ming Zhang Contact me at nkd_zm@imust.edu.cn.edu.cn.
 + Jubai An
